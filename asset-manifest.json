@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/benchmark-mailbox/static/js/main.636b2e93.chunk.js",
+    "main.js.map": "/benchmark-mailbox/static/js/main.636b2e93.chunk.js.map",
+    "runtime-main.js": "/benchmark-mailbox/static/js/runtime-main.f8b5c67d.js",
+    "runtime-main.js.map": "/benchmark-mailbox/static/js/runtime-main.f8b5c67d.js.map",
+    "static/js/2.c2b6aeb4.chunk.js": "/benchmark-mailbox/static/js/2.c2b6aeb4.chunk.js",
+    "static/js/2.c2b6aeb4.chunk.js.map": "/benchmark-mailbox/static/js/2.c2b6aeb4.chunk.js.map",
+    "index.html": "/benchmark-mailbox/index.html",
+    "precache-manifest.39449cc7bf7a041b985740aa77ca9a5f.js": "/benchmark-mailbox/precache-manifest.39449cc7bf7a041b985740aa77ca9a5f.js",
+    "service-worker.js": "/benchmark-mailbox/service-worker.js",
+    "static/js/2.c2b6aeb4.chunk.js.LICENSE.txt": "/benchmark-mailbox/static/js/2.c2b6aeb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8b5c67d.js",
+    "static/js/2.c2b6aeb4.chunk.js",
+    "static/js/main.636b2e93.chunk.js"
+  ]
+}
