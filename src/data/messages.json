@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "from": "Xinyu Wang",
+    "fromAddress": "test@foofoo.com",
+    "subject": "Week 10 Meeting",
+    "dtSent": "Today, 9:18AM",
+    "read": false,
+    "body": "Hey guys, <br/><br/> Today's meeting is cancelled! Go have some fun~"
+  },
+  {
+    "id": 2,
+    "from": "Yuetao Li",
+    "fromAddress": "test@testdomain.com",
+    "subject": "Interpreter",
+    "dtSent": "Yesterday, 8:54AM",
+    "read": false,
+    "body": "Sorry, our interpreter is broken...",
+    "attachment": false
+  }
+]
